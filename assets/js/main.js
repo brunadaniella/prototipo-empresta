@@ -1,0 +1,1 @@
+onclick="$('#exampleModal').modal('hide') $('#andamentoModal').modal('show')"
